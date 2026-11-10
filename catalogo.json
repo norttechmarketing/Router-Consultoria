@@ -1,0 +1,8 @@
+[
+  {"nome":"Computadores e notebooks","categoria":"Informática","icone":"computer","descricao":"Equipamentos para o caixa, o escritório e a rotina de atendimento."},
+  {"nome":"Periféricos e acessórios","categoria":"Informática","icone":"keyboard","descricao":"Teclados, mouses, monitores e acessórios para o seu espaço de trabalho."},
+  {"nome":"Equipamentos para PDV","categoria":"Automação","icone":"scan","descricao":"Impressoras térmicas, leitores de código de barras e acessórios para o caixa."},
+  {"nome":"Redes e conectividade","categoria":"Redes","icone":"wifi","descricao":"Roteadores, switches e cabos para conectar os equipamentos do negócio."},
+  {"nome":"Suprimentos de impressão","categoria":"Suprimentos","icone":"printer","descricao":"Consulte cartuchos, toners e bobinas compatíveis com o seu equipamento."},
+  {"nome":"Componentes e upgrades","categoria":"Informática","icone":"chip","descricao":"Memória, armazenamento e componentes para atualizar sua máquina."}
+]
